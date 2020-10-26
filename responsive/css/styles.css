@@ -1,0 +1,28 @@
+#header-nav{
+
+    background-color: gray;
+  
+}
+#nav-list{
+    background-color: lightgray;
+}
+.section{
+    background-color: darkgray;
+    color: black;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+}
+.text-center{
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 2px;
+}
+#brand{
+
+    font-size: larger;
+    color: black;
+    font-weight: bold;
+}
